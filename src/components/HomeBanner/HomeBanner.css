@@ -1,0 +1,101 @@
+.homeSectionInner{
+    
+    
+    justify-content: center;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100vh;
+}
+.homeBannerSection{
+    background-size: cover;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 6rem 9rem;
+}
+.homeSectionInner:before {
+    
+  }
+  .homePage-content{
+    margin-top: 9rem;
+    width: 68%;
+    margin-right: 67%;
+    padding-left: 5vw;
+  }
+
+  .homePage-content h3 {
+    font-size: 3vw;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+  .homePage-content p{
+    font-weight: 200;
+font-size: 16px;
+  }
+
+
+
+
+
+
+  @media (max-width: 320px) {
+    .homePage-content {
+      margin-top: 6rem; /* Adjust margin-top for smaller screens */
+      width: 80%; /* Adjust width for smaller screens */
+      margin-right: auto; /* Center align content */
+      margin-left: auto; /* Center align content */
+      padding-left: 3vw; /* Adjust padding for smaller screens */
+    }
+  
+    .homePage-content h3 {
+      font-size: 16px; /* Adjust font size for smaller screens */
+    }
+  }
+  
+  /* Small devices (phones, 321px to 576px) */
+  @media (min-width: 321px) and (max-width: 576px) {
+    .homeBannerSection {
+      padding: 4rem 6rem; /* Adjust padding for small devices */
+    }
+  }
+  
+  /* Medium devices (portrait tablets and large phones, 577px to 768px) */
+  @media (min-width: 577px) and (max-width: 768px) {
+    .homeBannerSection {
+      padding: 5rem 8rem; /* Adjust padding for medium devices */
+    }
+  
+    .homePage-content {
+      margin-top: 7rem; /* Adjust margin-top for medium devices */
+      width: 60%; /* Adjust width for medium devices */
+      margin-right: auto; /* Center align content */
+      margin-left: auto; /* Center align content */
+      padding-left: 3vw; /* Adjust padding for medium devices */
+    }
+  
+    .homePage-content h3 {
+      font-size: 24px; /* Adjust font size for medium devices */
+    }
+  }
+  
+  /* Large devices (landscape tablets and laptops, 769px to 1200px) */
+  @media (min-width: 769px) and (max-width: 1200px) {
+    .homeBannerSection {
+      padding: 6rem 9rem; /* Adjust padding for large devices */
+    }
+  
+    .homePage-content {
+      margin-top: 9rem; /* Adjust margin-top for large devices */
+      width: 50%; /* Adjust width for large devices */
+      margin-right: auto; /* Center align content */
+      margin-left: auto; /* Center align content */
+      padding-left: 5vw; /* Adjust padding for large devices */
+    }
+  
+    .homePage-content h3 {
+      font-size: 3vw; /* Adjust font size for large devices */
+    }
+  }
+  

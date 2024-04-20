@@ -1,0 +1,26 @@
+.getintouch-sec{
+    padding: 6rem 9rem;
+    height: 60vh;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 50%, rgba(0, 0, 0, 1)50%)
+}
+.getintouch-innerdiv{
+    height: 40vh;
+    background-color: blue;
+    padding: 43px;
+   
+}
+.getintouch-innerdiv h1 ,p{
+    color: aliceblue;
+}
+.getintouch-innerdiv h1{
+    font-weight: 800;
+    font-size: 45px;
+}
+.getintouch-innerdiv p{
+    border: 2px solid white;
+    border-radius: 50px;
+    width: 15%;
+font-size: 20px;
+padding: 5px 28px;
+margin: 30px auto;
+}

@@ -1,0 +1,38 @@
+section.innovation-sec{
+   background-image: url(../../assets/gray-bg.jpg);
+   background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 0;
+    padding: 6rem 9rem;
+   
+}
+.innovation-header{
+    margin-left: 4rem;
+}
+.innovation-header h2{
+font-size: 55px;
+}
+.innovation-header h6{
+    font-size: 30px;
+}
+.innovation-header a{
+    text-decoration: none;
+    border: 2px solid blue;
+    border-radius: 50px;
+    padding: 6px 16px;
+    margin-top: 4rem;
+}
+.innovation-contentdiv{
+
+}
+.innovation-contentdiv img{
+    width: 100%;
+}
+.innovation-imgdiv{
+    margin-left: 7rem;
+}
+.innovation-imgdiv img{
+    width: 100%;
+}

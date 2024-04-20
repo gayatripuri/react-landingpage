@@ -1,0 +1,60 @@
+.update-sec{
+    padding: 6rem 9rem;
+}
+.newsupdate-head{
+
+}
+.newsupdate-head h3{
+    font-size: 26px;
+}
+.newsupdate-head h2{
+font-weight: 800;
+}
+.newsupdate-head{
+
+}
+.newsupdate-div{
+margin-top: 30px;
+display: flex;
+}
+.newsupdate-btn{
+    border: 2px solid blue;
+    border-radius: 50px;
+    font-size: 23px;
+}
+
+.newsupdate-btn p{
+
+}
+
+.img-leftbar{
+
+}
+.img-leftbar img{
+    width: 100%;
+}
+.newsupdate-rightbar{
+
+}
+.newsdiv{
+display: flex;
+}
+.img-leftbar{
+
+}
+.img-leftbar img{
+
+}
+.content-rightbar{
+    padding: 29px 24px;
+    background-color: white;
+}
+.content-rightbar h2{
+    font-size: 22px;
+}
+.content-rightbar p{
+font-size: 15px;
+}
+.newsupate-sec-dection{
+    margin-top: 45px;
+}

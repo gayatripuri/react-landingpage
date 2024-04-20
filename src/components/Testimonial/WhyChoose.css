@@ -1,0 +1,15 @@
+.whychoose-sec{
+    padding: 6rem 9rem;
+}
+.whychoose-contentdiv{
+
+}
+.whychoose-contentdiv ul li{
+    display: flex;
+}
+.whychoose-logo{
+    width: 4.7vw;
+}
+.whychoose-content-inner-div{
+    margin-left: 3rem;
+}

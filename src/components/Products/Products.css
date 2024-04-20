@@ -1,0 +1,36 @@
+.products-section{
+    background-size: cover;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 6rem 9rem;
+}
+.products-text{
+    display: flex;
+}
+.products-imgdiv{
+    margin-top: 3rem;
+}
+.product-img{
+width: 100%;
+}
+.contentdiv{
+    text-transform: uppercase;
+}
+.contentdiv h1{
+    font-size: 22px;
+}
+.contentdiv h2{
+    font-weight: 800;
+    font-size: 35px;
+}
+.contentdiv button{
+
+}
+ .productBtn{
+    border: 2px solid blue;
+    color: blue;
+    border-radius: 50px;
+    padding: .5rem;
+    margin-left: 57%;
+}

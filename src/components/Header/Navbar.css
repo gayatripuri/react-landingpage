@@ -1,0 +1,51 @@
+header{
+    width: 100%;
+    padding: 0 2rem;
+    position: fixed;
+    background: #fff;
+    z-index: 99;
+}
+.navLogo{
+
+}
+.navLogo img{
+    width: 52%;
+}
+.navbar{
+justify-content: space-between;
+align-items: center;
+}
+.navbar-nav{
+    margin-left: 4rem;
+}
+.nav-item{
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.navbar-nav .nav-item{
+    padding: 0 .8rem;
+    
+}
+ .navBtn{color: blue;
+    font-weight: 600;
+    border: 1.5px solid black;
+    border-radius: 50px;
+    padding: 5px 14px;
+ 
+}
+
+
+@media (max-width: 320px) {
+    .navLogo img {
+      width: 40%; /* Adjust the width of the logo for smaller screens */
+    }
+  
+    .navbar-nav {
+      margin-left: 0; /* Reset margin for smaller screens */
+    }
+  
+    .navbar-nav .nav-item {
+      padding: 0 0.5rem; /* Adjust padding for smaller screens */
+    }
+  }
+  

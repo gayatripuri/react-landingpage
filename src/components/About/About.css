@@ -1,0 +1,24 @@
+.aboutsection{
+    padding: 6rem 9rem;
+}
+.imgsection img{
+    width: 100%;
+    
+}
+.about-content{
+    padding: 0 10rem;
+    
+}
+.about-content h3{
+text-transform: uppercase;
+font-size: 25px;
+font-weight: 500;
+}
+.about-content h1{
+text-transform: uppercase;
+}
+.about-btn{
+border: 2px solid blue;
+border-radius: 50px;
+padding: 6px 19px;
+}
